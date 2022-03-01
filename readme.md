@@ -13,8 +13,9 @@ currently supported operations<br>
 
 IN PROGRESS: <br>
 <ul>
-<li>[letter-letter] (e.x. [a-z] / [a-zA-z] / etc.) </li>
-<li>special operators - <word> -> \w, <digit> -> \d, <space> -> \s, etc. </li>
-<li>or/and translating into logical ors and ands </li>
-<li>negative lookaheads (possibly denoted by \<neglook>?)</li>  
+  <li>[letter-letter] (e.x. [a-z] / [a-zA-z] / etc.) </li>
+  <li>special operators - &ltword&gt -> \w, &ltdigit&gt -> \d, &ltspace&gt -> \s, etc. </li>
+  <li>or/and translating into logical ors and ands </li>
+  <li>negative lookaheads (possibly denoted by &ltneglook&gt?) </li>  
+  <li>adding functionality for + and * in search patterns (e.x. [a-z]* and [a-z]+) </li>
 </ul>
