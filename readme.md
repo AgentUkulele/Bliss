@@ -3,7 +3,7 @@ incredible how I don't know how to properly write rust
 and yes I'm also learning regex while making this
 
 
-currently supported operations
+currently supported operations<br>
 
 { and } create and close capture groups ( { -> "(?:", } -> ")" )
 [digit-digit] defines a range of capture DOES NOT work for alphabetic characters atm
