@@ -12,9 +12,9 @@ currently supported operations<br>
 
 
 IN PROGRESS: <br>
-<li>
-[letter-letter] (e.x. [a-z] / [a-zA-z] / etc.) 
-special operators - <word> -> \w, <digit> -> \d, <space> -> \s, etc.
-or/and translating into logical ors and ands
-negative lookaheads (possibly denoted by <neglook>?)  
-  </li>
+<ul>
+<li>[letter-letter] (e.x. [a-z] / [a-zA-z] / etc.) </li>
+<li>special operators - <word> -> \w, <digit> -> \d, <space> -> \s, etc. </li>
+<li>or/and translating into logical ors and ands </li>
+<li>negative lookaheads (possibly denoted by <neglook>?)</li>  
+</ul>
