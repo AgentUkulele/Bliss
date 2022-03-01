@@ -4,11 +4,12 @@ and yes I'm also learning regex while making this <br>
 
 
 currently supported operations<br>
-<br>
-{ and } create and close capture groups ( { -> "(?:", } -> ")" ) <br>
-[digit-digit] defines a range of capture DOES NOT work for alphabetic characters atm <br>
-[digit] defines a count for the following capture (e.x. [3] "hello" -> (hello){3}) <br>
-"[word]" captures a word <br>
+<ul>
+<li>{ and } create and close capture groups ( { -> "(?:", } -> ")" ) </li>
+<li>[digit-digit] defines a range of capture DOES NOT work for alphabetic characters atm </li>
+<li>[digit] defines a count for the following capture (e.x. [3] "hello" -> (hello){3}) </li>
+<li>"[word]" captures a word </li>
+</ul>
 
 
 IN PROGRESS: <br>
